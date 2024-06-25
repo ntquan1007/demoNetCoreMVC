@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NinePlus\\Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D57A08-D7C6-425B-9F1B-05D556897E3E}|Middleware\\Middleware.csproj|e:\\nineplus\\middleware\\middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D57A08-D7C6-425B-9F1B-05D556897E3E}|Middleware\\Middleware.csproj|solutionrelative:middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NinePlus\\Middleware\\Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "Middleware\\Program.cs",
+              "ToolTip": "E:\\NinePlus\\Middleware\\Middleware\\Program.cs",
+              "RelativeToolTip": "Middleware\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:34:47.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
